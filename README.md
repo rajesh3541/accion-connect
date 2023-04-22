@@ -5,4 +5,4 @@ Created workflow actions to execute automated tests on pushing code to main bran
 
 Automated tests which are located in connect repository will executed.
 
-The batch file testExecution.bat will run all the test mentioned in it.
+The batch file testExecution.bat will run all the test mentioned in it. The results are stored in testResults.txt
